@@ -1,0 +1,29 @@
+.title{
+    text-align: center;
+    color:blue;
+    background-color:yellow;
+}
+
+.heading{
+    color: white;
+    background-color: black;
+    background-clip: content-box;
+    width: fit-content
+    
+}
+*{
+    margin:0;
+}
+
+.tho{
+    text-align: center;
+}
+.title2{
+    text-align: center;
+    color: blue;
+    background-color: orange;
+}
+
+.tho2{
+    background-color:rgb(226, 54, 157)
+}

@@ -1,0 +1,17 @@
+.cont{
+    color:white;
+
+}
+
+.heading{
+    text-align: center;
+    color: #fc0;
+}
+
+.body{
+    background-image:url(https://i.pinimg.com/564x/c2/e9/6e/c2e96eec18f24bd68de4606854b46bd4.jpg);
+    background-size: 90% 80%;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-origin: content-box;
+}

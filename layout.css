@@ -1,0 +1,25 @@
+.banner{
+    background-color: blue;
+    height: 100px;
+    color: white;
+    text-align: center;
+}
+
+.black{
+    background-color: black;
+}
+
+.section{
+    text-align: center;
+    color: yellow;
+    background-color: red;
+    height: 600px;
+
+}
+
+.footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+    height: 50px;
+}

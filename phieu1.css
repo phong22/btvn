@@ -1,0 +1,25 @@
+.bai1{
+    color:red
+}
+
+.heading1{
+    text-align: center;
+    color: #4caf50;
+}
+
+.text{
+    word-spacing: 3px;
+    text-indent: 50px;
+}
+
+.tho{
+    text-align:center;
+    background-color:#FFFFCC;
+    font-style:italic
+}
+
+.detho{
+    text-align: center;
+    background-color: rgb(254, 208, 254);
+    color:rgb(255, 2, 158)
+}
